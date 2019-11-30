@@ -627,7 +627,7 @@ body {
   justify-content: center;
   align-items: center;
   position: relative;
-  background-image: url("../img/sections-background/section-3.jpg");
+  background-image: url("../img/sections-background/slidebg.jpg");
   background-position: 0 -200px;
   z-index: 0;
 }
