@@ -4,4 +4,5 @@ ___________
 Used Font Awesome, jQuery
 _________________
 On Github Page:<br />
-https://mrjeyhun.github.io/HamProject/
+<a href="https://mrjeyhun.github.io/HamProject/">View demo</a>
+
